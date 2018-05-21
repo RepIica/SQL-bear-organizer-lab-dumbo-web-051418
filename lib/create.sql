@@ -7,3 +7,4 @@ CREAT TABLE bears(
   temperament TEXT,
   alive BOOLEAN,
 );
+
