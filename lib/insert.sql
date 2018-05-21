@@ -5,4 +5,4 @@ INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Sergea
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Melissa", 23, "M", "Black", "Docile", true);
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Grinch", 23, "M", "Black", "Docile", true);
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Wendy", 23, "M", "Black", "Docile", true);
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ( , 23, "M", "Black", "Docile", true);
+INSERT INTO bears (age, gender, color, temperament, alive) VALUES ( 23, "M", "Black", "Docile", true);
